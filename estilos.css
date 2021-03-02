@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	}
+	.one{
+	color: red;
+}
+.contenedor{
+	width: 500px;
+	background: #24303c;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: 'calibri';
+	color: white;
+		}
+.contenedor h4 { 
+	font-size: 22px;
+	margin-bottom: 20px;
+	color: #057676;
+
+}
+.controles{
+	width: 80%;
+	background: #24303c;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border:1px solid #1f53c5;
+	font-family: 'calibri';
+	font-size: 18px;
+	color: white;
+}
+.boton{
+	width: 40%;
+	background: #008080;
+	border: none;
+	padding: 8px;
+	color:white;
+	margin: 16px 0;
+	 font-size: 16px;
+}
+
+.conte{
+	
+	font-size: 22px;
+	margin-bottom: 20px;
+	color: black;
+}
+.titulo{
+	background: #24303c;
+	color: #057676;
+}
+.letras{
+	background: #99afaf;
+	color: black;
+}
+.teclas{
+	
+	color: black;
+}
